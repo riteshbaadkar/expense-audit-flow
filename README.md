@@ -26,12 +26,13 @@ Fraud rate: 0.58% (highly imbalanced)
 
 ## Project Structure
 
-expense-audit-flow/
-├── data/               ← Dataset (not tracked in Git — download from Kaggle)
-├── notebooks/          ← Jupyter notebooks with analysis and charts
-├── scripts/            ← Standalone Python scripts
-├── requirements.txt    ← Required libraries
-└── README.md
+| Folder/File | Purpose |
+|---|---|
+| `data/` | Dataset (not tracked in Git — download from Kaggle) |
+| `notebooks/` | Jupyter notebooks with analysis and charts |
+| `scripts/` | Standalone Python scripts |
+| `requirements.txt` | Required libraries |
+| `README.md` | Project documentation |
 
 ---
 
